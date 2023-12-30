@@ -25,7 +25,7 @@ Node{[1, 2, 3, 4, 5, 6, 7, 8, 0]} -> "1 2 3 4 5 6 7 8 0"
    ```
 4. To run predefined tests:
    ```bash
-   go test
+   go test .\n-puzzle
    ```
 5. To run custom board, build the solution:
    ```bash
